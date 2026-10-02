@@ -173,6 +173,7 @@
             <a href="#skills">Skills</a>
             <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
+<a href="#contactinfo">Contact</a>
         </nav>
     </header>
 
